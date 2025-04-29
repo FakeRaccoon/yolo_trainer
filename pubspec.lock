@@ -147,36 +147,11 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_vision:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: HEAD
-      resolved-ref: e2d173eec73c15dd026ceae2cf9d5bf67876effe
-      url: "https://github.com/FakeRaccoon/flutter_vision.git"
-    source: git
-    version: "1.1.4"
   flutter_web_plugins:
     dependency: transitive
     description: flutter
     source: sdk
     version: "0.0.0"
-  google_mlkit_commons:
-    dependency: transitive
-    description:
-      name: google_mlkit_commons
-      sha256: "8f40fbac10685cad4715d11e6a0d86837d9ad7168684dfcad29610282a88e67a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.11.0"
-  google_mlkit_text_recognition:
-    dependency: "direct main"
-    description:
-      name: google_mlkit_text_recognition
-      sha256: "96173ad4dd7fd06c660e22ac3f9e9f1798a517fe7e48bee68eeec83853224224"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.15.0"
   image:
     dependency: "direct main"
     description:
@@ -398,6 +373,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.4.0"
+  ultralytics_yolo:
+    dependency: "direct main"
+    description:
+      name: ultralytics_yolo
+      sha256: "0118bdccb179b294a56a92c391f7afe3d07986bc092277eb54892a3e4fdb3ce0"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.7"
   vector_math:
     dependency: transitive
     description:
