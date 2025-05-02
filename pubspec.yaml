@@ -34,6 +34,7 @@ dependencies:
   image: ^4.5.4
   path_provider: ^2.1.5
   ultralytics_yolo: ^0.0.7
+  screenshot: ^3.0.0
 
 dev_dependencies:
   flutter_lints: ^5.0.0
